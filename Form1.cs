@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TicheValue
 {
-    public partial class Form1 : Form
+    public partial class Form_main : Form
     {
-        public Form1()
+        public Form_main()
         {
             InitializeComponent();
         }
